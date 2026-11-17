@@ -1,0 +1,1 @@
+Root of makitbig.github.io: holds app-ads.txt (AdMob reads it from the domain root of the store developer website) and sends visitors to the Blucos homepage at /blucos/. Move app-ads.txt to the custom domain once one is attached.
